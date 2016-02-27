@@ -6,6 +6,8 @@ permalink: /media-navigator/
 source-id: 1Y2VnfIOfBT2-JvWL4M5GF-DHxO2ozriYadjWtpqKSxo
 published: true
 ---
+Media Navigator and Identity Map
+
 Our homework for half term was to create an identity map about ourselves. This map contained many things to do with us. It was quite hard to think of a layout for the identity map but I got their in end. With each picture I drew there was some writing underneath. I feel it went very well.
 
 I was ok in sharing my identity map with the class because it had information about me and I wasn't sure how they would act. I thought some may laugh or be surprised about some of the things I wrote. But I got really good comments from my classmates.
