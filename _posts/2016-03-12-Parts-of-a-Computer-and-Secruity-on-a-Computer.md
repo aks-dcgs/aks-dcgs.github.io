@@ -12,9 +12,21 @@ published: true
 
 Peripherals are devices that get information in and out of Computers.
 
-**Input                            **Microphone                Camera                         Scanner
+**Input                        **               
 
-**Output **                        Speakers                      Monitor                          Printer
+Microphone
+
+Camera   
+
+Scanner
+
+**Output**
+
+Speakers
+
+Monitor 
+
+Printer
 
 **_Hard Drive_**
 
