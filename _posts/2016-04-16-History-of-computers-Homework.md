@@ -1,5 +1,5 @@
 ---
-title: History of computers Homework
+title: The History of Computers Homework
 layout: post
 author: akash.sharma
 permalink: /history-of-computers-homework/
