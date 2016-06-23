@@ -2,8 +2,7 @@
 title: Microbit Programming Practice, Microbit lesson 3
 layout: post
 author: akash.sharma
-permalink: /micro:
-bit-programming-practice-microbit-lesson-3/
+permalink: /micro/
 source-id: 1bb9GGr6uoAjdqob0_8q9tklqj_-g1wvFWOEr6T6D--4
 published: true
 ---
