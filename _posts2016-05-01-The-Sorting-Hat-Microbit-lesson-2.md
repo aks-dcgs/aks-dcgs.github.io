@@ -2,7 +2,7 @@
 title: The Sorting Hat, Microbit lesson 2
 layout: post
 author: akash.sharma
-permalink: /the-sorting-hat,-microbit-lesson-2/
+permalink: /the-sorting-hat-microbit-lesson-2/
 source-id: 1YjoNie4e_ibiL5CfqxMqAnatBHobeS57G4crJhJtr7Q
 published: true
 ---
