@@ -12,5 +12,5 @@ In this week's IT lesson we looked at online safety for the majority of the less
 
 [http://www.bbc.co.uk/news/uk-24539514](http://www.bbc.co.uk/news/uk-24539514)
 
-[http://www.bbc.co.uk/news/uk-24539514](http://www.bbc.co.uk/news/uk-24539514)
+[http://www.bbc.co.uk/news/uk-england-36054273](http://www.bbc.co.uk/news/uk-england-36054273)
 
