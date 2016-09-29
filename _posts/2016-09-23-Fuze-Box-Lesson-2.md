@@ -8,7 +8,7 @@ published: true
 ---
 Fuze Box Lesson 2
 
-I n this week's IT lesson we did some more work on fuze box This time me and my partner did assessment 2 which we finished in the lesson we managed to save . Assessment two was about adding and subtracting on fuze box. We found it quite easy but there were a few difficulties with copying things down. We didn't get much done on assessment 3. I hope we can finish assessment 3 in our next lesson IT
+I n this week's IT lesson we did some more work on fuze box This time my partner and I did assessment 2 which we finished in the lesson and we managed to save . Assessment two was about adding and subtracting on fuze box. We found it quite easy but there were a few difficulties with copying things down. We didn't get much done in assessment 3. I hope we can finish assessment 3 in our next lesson IT
 
 WWW: We finished assessment 2 
 
