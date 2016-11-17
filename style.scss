@@ -289,8 +289,8 @@ footer {
 @import "svg-icons";
 
 body {
-    background-image: url("https://i.ytimg.com/vi/xrkYV2RXnBI/maxresdefault.jpg");
+    background-image: url(https://i.ytimg.com/vi/xrkYV2RXnBI/maxresdefault.jpg);
     background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
+    background-position: fixed;
+    
 }
