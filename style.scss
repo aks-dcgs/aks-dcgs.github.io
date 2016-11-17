@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+    background-image: url(https://i.ytimg.com/vi/xrkYV2RXnBI/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
 }
 
 .container {
@@ -288,9 +288,4 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-body {
-    background-image: url(https://i.ytimg.com/vi/xrkYV2RXnBI/maxresdefault.jpg);
-    background-repeat: no-repeat;
-    background-position: fixed;
-    
-}
+
