@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: #ffffff;
   }
 }
 
@@ -63,7 +63,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $White;
+  color: #ffffff;
 }
 
 p {
@@ -71,11 +71,11 @@ p {
 }
 
 a {
-  color: $White;
+  color: #ffffff;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $White;
+    color: #ffffff;
   }
 }
 
@@ -119,17 +119,17 @@ img {
 
 .date {
   font-style: italic;
-  color: $White;
+  color: #ffffff;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $white;
-  background: $white;
+  color: #ffffff;
+  background: #ffffff;
 }
 ::selection {
-  color: $white;
-  background: $white;
+  color: #ffffff;
+  background: #ffffff;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -194,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $White;
+  color: #ffffff;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -204,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $White;
+  color: #ffffff;
   font-size: 16px;
 
   @include mobile {
@@ -258,7 +258,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $white;
+    color: #ffffff;
     font-size: 22px;
     font-style: italic;
   }
