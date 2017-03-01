@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Agin my target was to do 5% more on python, I was stuck on quite a hard stage and it took me quite a long time to get past.. I was on the last exercise of it and I managed to quickly finish it. Also these stages took me a long time so I did a bit for homework and I managed to do them. Now I have moved onto the next stage which is called 'Taking a Vacation'. I hope to finish this section quickly so I can move onto the next one.</td>
+    <td>Again my target was to do 5% more on python, I was stuck on quite a hard stage and it took me quite a long time to get past.. I was on the last exercise of it and I managed to quickly finish it. Also these stages took me a long time so I did a bit for homework and I managed to do them. Now I have moved onto the next stage which is called 'Taking a Vacation'. I hope to finish this section quickly so I can move onto the next one.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
