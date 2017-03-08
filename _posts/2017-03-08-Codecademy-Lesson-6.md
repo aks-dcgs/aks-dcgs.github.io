@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td></td>
+    <td>Codecademy Lesson 6</td>
     <td>Date</td>
-    <td>01/01/01</td>
+    <td>02/03/17</td>
   </tr>
 </table>
 
