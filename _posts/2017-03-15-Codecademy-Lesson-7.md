@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>It's the same every week we go onto Codecademy and we carry on with the work. I worked at a good pace and got 5 exercises done.I managed to not ask my friends any questions. I'am happy because that was my target last week was to not ask my friends the for help much during questions.</td>
+    <td>It's the same every week we go onto Codecademy and we carry on with the work. I worked at a good pace and got 5 exercises done.I managed to not ask my friends any questions. I'm happy because that was my target last week was to not ask my friends the for help much during questions.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
