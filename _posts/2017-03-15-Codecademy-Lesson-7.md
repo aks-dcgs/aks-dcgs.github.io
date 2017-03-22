@@ -47,7 +47,7 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I don't think any hong lomite my working.</td>
+    <td>I don't think anything limited my working.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
