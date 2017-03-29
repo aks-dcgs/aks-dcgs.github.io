@@ -43,27 +43,6 @@ published: true
   <tr>
     <td>Instead of doing Codecademy Mr Keen was testing our knowledge on Python. We had to make a function that can figure out the area and perimeter of any shape. In the lesson I struggled  a lot however when I was at home I managed to figure it out. 
 
-Here's my code:
-
-w = input ("Side 1:")
-h = input ("Side 2:")
-
-def perimeter():
-  p = float(w) + float(h) + float(w) + float(h)
-  print (p)
-
-perimeter()
-
-print ("Let's work out the area")
-w = input ("Side 1:")
-h = input ("Side 2:")
-
-def area():
-  a = float(w) * float(h)
-  print (a)
-  
-area()
-
 I also managed to get up to battleship on Codecademy which is 57%.</td>
   </tr>
   <tr>
