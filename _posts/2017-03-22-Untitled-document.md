@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Codecademy Lesson 8
 layout: post
 author: akash.sharma
 permalink: /untitled-document/
